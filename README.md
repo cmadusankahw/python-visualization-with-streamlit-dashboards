@@ -7,3 +7,6 @@ This project is based on visualizing data of a sentiment analysis of tweets abou
 - streamlit
 - pandas
 - numpy
+- plotly
+- WordCloud
+- matplotlib
