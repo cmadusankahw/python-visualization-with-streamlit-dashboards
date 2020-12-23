@@ -10,3 +10,8 @@ This project is based on visualizing data of a sentiment analysis of tweets abou
 - plotly
 - WordCloud
 - matplotlib
+
+### Project Screenshots  
+
+![Dashboard 1](data/dashboard_1.png)
+![Dashboard 1](data/dashboard_2.png)
